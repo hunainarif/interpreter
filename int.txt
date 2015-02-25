@@ -1,0 +1,5 @@
+let x = 1
+let y = 8
+let z
+z = x * 2 + y + 2
+print z

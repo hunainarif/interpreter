@@ -1,0 +1,5 @@
+let x = "abc"
+let y = "aunn"
+let z
+z = x + y + 2
+print z
